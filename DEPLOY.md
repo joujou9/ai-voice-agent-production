@@ -49,3 +49,6 @@ NEXT_PUBLIC_LIVEKIT_URL=wss://your-project.livekit.cloud
 | Frontend | Vercel | Yes | Best for Next.js |
 | Frontend | Netlify | Yes | Good alternative |
 | LiveKit | LiveKit Cloud | Yes | Required for voice rooms |
+
+# Deploy Guide (Render)
+https://youtu.be/cw34KMPSt4k?si=Ivs8K-taqHaLOBls
